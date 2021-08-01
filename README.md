@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PathakSeason316
 - 👀 I’m interested in technology and programming.
 - 🌱 I’m currently learning React js and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 PathakSeason316/PathakSeason316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
