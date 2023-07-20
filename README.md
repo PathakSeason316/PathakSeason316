@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PathakSeason316
 - 👀 I’m interested in technology and programming.
-- 🌱 I’m currently learning React js and Python.
+- 🌱 I'm currently working on C# Asp.Net Framework 
 
 
 <!---
